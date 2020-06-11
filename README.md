@@ -7,5 +7,6 @@ Bank Management System is based on a concept of recording customer’s account d
 -	check balance
 -	display all account holders’ detail
 -	close an account
--	modify an account. 
+-	modify an account
+
 There’s login system for admin of project. All the main features for banking system are set in this project.
